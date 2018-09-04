@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">wearable</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="tab1">Tab1</string>
+    <string name="testbtn_1">TESTBTN 1</string>
+    <string name="tab2">Tab2</string>
+    <string name="testbtn_2">TESTBTN 2</string>
+    <string name="testbtn_click_1">TESTING BUTTON CLICK 1</string>
+    <string name="testbtn_click_2">TESTING BUTTON CLICK 2</string>
+</resources>
